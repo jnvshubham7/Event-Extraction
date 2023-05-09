@@ -1,4 +1,4 @@
-METHODOLOGY
+#METHODOLOGY
 
 Extracting event information from news articles involves several steps, including data collection, text processing, and event extraction. The following is a general methodology for extracting event information from news articles:
 Data Collection
