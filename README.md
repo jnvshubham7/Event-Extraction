@@ -1,5 +1,5 @@
 # How to Run
-Select All Run option then all program will be running 
+**Select All Run option then all program will be running **
 some program takes time for training so wait some time if required 
 
 
