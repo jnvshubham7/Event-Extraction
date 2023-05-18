@@ -1,6 +1,9 @@
 # How to Run
 Go to folder "Code"
 there one ipynb type have open that file 
+also you have upload that file and news dateset on google cloab then run there
+or you will also run on vs code if all required library have installed
+give the news dataset path on code then run 
 then run that file 
 **Select All Run option then all program will be running**
 some program takes time for training so wait some time if required 
