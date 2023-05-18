@@ -1,4 +1,7 @@
 # How to Run
+Go to folder "Code"
+there one ipynb type have open that file 
+then run that file 
 **Select All Run option then all program will be running**
 some program takes time for training so wait some time if required 
 
