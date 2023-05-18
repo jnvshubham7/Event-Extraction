@@ -9,6 +9,8 @@ some program takes time for training so wait some time if required
 1:01 m
 
 
+m- minute
+ms- mili seconds
 
 
 # METHODOLOGY
