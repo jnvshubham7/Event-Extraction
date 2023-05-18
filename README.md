@@ -2,6 +2,14 @@
 **Select All Run option then all program will be running**
 some program takes time for training so wait some time if required 
 
+# Runtime
+2 ms 
+2:55 m
+1:44 m
+1:01 m
+
+
+
 
 # METHODOLOGY
 
